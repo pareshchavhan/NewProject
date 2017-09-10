@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="283546" started-at="2017-09-09T19:14:07Z" finished-at="2017-09-09T19:18:51Z">
+  <suite name="Suite" duration-ms="35998" started-at="2017-09-10T10:32:22Z" finished-at="2017-09-10T10:32:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="283546" started-at="2017-09-09T19:14:07Z" finished-at="2017-09-09T19:18:51Z">
+    <test name="Test" duration-ms="35998" started-at="2017-09-10T10:32:22Z" finished-at="2017-09-10T10:32:58Z">
       <class name="com.sumasoft.Mortgage_NAM.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sumasoft.Mortgage_NAM.NewTest@2ed94a8b]" name="beforeTest" is-config="true" duration-ms="282955" started-at="2017-09-10T00:44:07Z" finished-at="2017-09-10T00:48:50Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sumasoft.Mortgage_NAM.NewTest@2ed94a8b]" name="beforeTest" is-config="true" duration-ms="35704" started-at="2017-09-10T16:02:22Z" finished-at="2017-09-10T16:02:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.sumasoft.Mortgage_NAM.NewTest@2ed94a8b]" name="f" duration-ms="2" started-at="2017-09-10T00:48:50Z" finished-at="2017-09-10T00:48:50Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.sumasoft.Mortgage_NAM.NewTest@2ed94a8b]" name="f" duration-ms="261" started-at="2017-09-10T16:02:58Z" finished-at="2017-09-10T16:02:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.sumasoft.Mortgage_NAM.NewTest@2ed94a8b]" name="afterTest" is-config="true" duration-ms="563" started-at="2017-09-10T00:48:50Z" finished-at="2017-09-10T00:48:51Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.sumasoft.Mortgage_NAM.NewTest@2ed94a8b]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-09-10T16:02:58Z" finished-at="2017-09-10T16:02:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

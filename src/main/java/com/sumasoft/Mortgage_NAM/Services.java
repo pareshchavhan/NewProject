@@ -15,7 +15,7 @@ public class Services {
 	public void home()
 	{
 		Actions act = new Actions(driver);
-          WebElement web = driver.findElement(By.xpath("//a[@href='http://www.sumasoft.com/IT-and-ITES-services']"));
+          WebElement web = driver.findElement(By.xpath("//span[contains(text(),'Services')][@class='link_text']"));
           act.moveToElement(web).build().perform();
 		};
 	}

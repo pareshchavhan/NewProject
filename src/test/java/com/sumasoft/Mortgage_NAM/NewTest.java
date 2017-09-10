@@ -25,13 +25,13 @@ public class NewTest {
 	@Test
 	public void f() {
 		System.out.println("This is test");
-		Services service=new Services(driver);				//for Sign up
+		Services service=new Services(driver);				
 		service.home();
 	}
 	@AfterTest
 	public void afterTest() {
 		System.out.println("This is afterTest");
-		driver.quit();
+		//driver.quit();
 	}
 
 }
