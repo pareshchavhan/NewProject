@@ -3,7 +3,8 @@ package com.sumasoft.Mortgage_NAM;
 
 import org.testng.annotations.Test;
 
-import Maven_demo.Maven_demo1.SignUp;
+import com.sumasoft.Mortgage_NAM.Services;
+
 
 import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.WebDriver;
